@@ -1,5 +1,17 @@
+.title {
+    text-align: center;
+    font-size: 3em;
+}
+
 .card-img {
     width: calc(var(--spacing) * 45);
     height: calc(var(--spacing) * 62);
     justify-self: center;
+}
+
+.card-ttl {
+    padding-top: 1.75rem;
+    padding-bottom: 0.25rem;
+    font-size: 1.1em;
+    font-weight: 700;
 }
