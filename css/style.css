@@ -1,0 +1,5 @@
+.card-img {
+    width: calc(var(--spacing) * 45);
+    height: calc(var(--spacing) * 62);
+    justify-self: center;
+}
