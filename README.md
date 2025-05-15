@@ -1,5 +1,6 @@
 # Please, Like Me
 
-## To do
+## Running
 
-- `md` responsiveness
+- execute `npx serve -p 3000 .`
+- browse to `http://localhost:3000/damier.html`
